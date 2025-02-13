@@ -104,9 +104,9 @@ jenvs = {
 # ---------------
 # Override standard doctype classes
 
-override_doctype_class = {
-	"Sales Invoice": "estate_app.overrides.sales_invoice.SalesInvoiceCustom"
-}
+# override_doctype_class = {
+# 	"Sales Invoice": "estate_app.overrides.sales_invoice.SalesInvoiceCustom"
+# }
 
 # Document Events
 # ---------------
