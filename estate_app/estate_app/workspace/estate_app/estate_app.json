@@ -1,16 +1,21 @@
 {
- "category": "Modules",
  "charts": [],
- "creation": "2021-08-15 22:12:58.681501",
+ "content": "[{\"id\":\"cJhgdTD9mh\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">Real Estate</span>\",\"col\":12}},{\"id\":\"nVBzm7nfDw\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"-B_qEZyEA6\",\"type\":\"card\",\"data\":{\"card_name\":\"Property\",\"col\":4}},{\"id\":\"cGBO53whGv\",\"type\":\"card\",\"data\":{\"card_name\":\"Custom Reports\",\"col\":4}}]",
+ "creation": "2024-08-15 22:12:58.681501",
  "developer_mode_only": 0,
  "disable_user_customization": 0,
  "docstatus": 0,
  "doctype": "Workspace",
  "extends_another_page": 0,
  "hide_custom": 0,
+ "public": 1,
+ "parent_page": "",
+ "title": "Estate App",
+ "sequence_id": 13.0,
+ "icon": "home",
  "idx": 0,
  "is_default": 0,
- "is_standard": 1,
+ "is_standard": 0,
  "label": "Estate App",
  "links": [
   {
@@ -32,11 +37,11 @@
    "type": "Link"
   }
  ],
- "modified": "2021-08-15 22:23:30.194935",
- "modified_by": "ghorz@mail.com",
+ "modified": "2025-02-12 22:23:30.194935",
+ "modified_by": "Administrator",
  "module": "Estate App",
  "name": "Estate App",
- "owner": "ghorz@mail.com",
+ "owner": "Administrator",
  "pin_to_bottom": 0,
  "pin_to_top": 0,
  "shortcuts": [
